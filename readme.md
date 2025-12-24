@@ -93,5 +93,3 @@ Contract Instructor for STAT5703 Data Mining at Carleton University, teaching gr
 ---
 
 Building production data science systems that solve real problems
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aminnabavi.aminnabavi)
